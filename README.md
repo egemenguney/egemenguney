@@ -39,8 +39,8 @@ My current ecosystem is a fully automated, asynchronous malware analysis factory
 
 ---
 
-###  Professional Background
-Ex-**Apple Technical Support Specialist**. I bring a high level of
+### Professional Background
+**Ex-Technical Support Specialist**. I bring a high level of
 troubleshooting expertise, system reliability focus, and corporate professionalism to every project I build.
 
 | [Patreon](https://www.patreon.com/egemenguney) | [X (Twitter)](https://x.com/egemenguney_koc) | [Instagram](https://www.instagram.com/egemenguney_koc/) | [Portfolio](https://www.egemenguney.net) |
