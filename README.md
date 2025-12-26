@@ -1,4 +1,4 @@
-# 🛡️ Egemen Güney | Cyber Threat Intelligence & DevSecOps Engineer
+# 🛡️ Egemen Güney KOÇ | Cyber Threat Intelligence & DevSecOps Engineer
 
 **Ex-Apple Technical Support Specialist** turned **Advanced Threat Researcher**.  
 I build high-performance, autonomous pipelines to track malware from GitHub repositories down to the final payload execution.
